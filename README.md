@@ -29,6 +29,3 @@ Manual QA Tester
 - Bug Reports
 - Test Execution Results
 - API Test Collection
-
-## Testing Status
-Testing is ongoing. The repository separates executed tests from planned test cases.
